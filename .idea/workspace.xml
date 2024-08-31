@@ -5,13 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f54dba8a-948a-4446-9b58-ef80e03f7f7b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../gRPC-spring-boot-example/greeting-common/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gRPC-spring-boot-example/greeting-common/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gRPC-spring-boot-example/greeting-common/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gRPC-spring-boot-example/greeting-common/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gRPC-spring-boot-example/greeting-common/src/main/proto/greeting.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gRPC-spring-boot-example/greeting-service/src/main/java/com/example/gRPC/service/GreetingServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mycoolapp/src/main/java/com/luv2code/springboot/demo/mycoolapp/rest/FunResstController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/section2/accounts/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section2/accounts/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section2/accounts/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section2/accounts/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section2/accounts/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section2/accounts/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section2/accounts/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section2/accounts/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section2/accounts/miocroservices_udemy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section2/accounts/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section2/accounts/target/classes/com/eazybytes/accounts/AccountsApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section2/accounts/target/classes/com/eazybytes/accounts/DTO/AccountsDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section2/accounts/target/classes/com/eazybytes/accounts/DTO/CustomerDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section2/accounts/target/classes/com/eazybytes/accounts/DTO/ErrorResponseDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section2/accounts/target/classes/com/eazybytes/accounts/DTO/ResponseDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section2/accounts/target/classes/com/eazybytes/accounts/audit/AuditAwareImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section2/accounts/target/classes/com/eazybytes/accounts/constants/AccountsConstants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section2/accounts/target/classes/com/eazybytes/accounts/controller/AccountsController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section2/accounts/target/classes/com/eazybytes/accounts/entity/Accounts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section2/accounts/target/classes/com/eazybytes/accounts/entity/BaseEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section2/accounts/target/classes/com/eazybytes/accounts/entity/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section2/accounts/target/classes/com/eazybytes/accounts/exception/CustomerAlreadyExistsException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section2/accounts/target/classes/com/eazybytes/accounts/exception/GlobalExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section2/accounts/target/classes/com/eazybytes/accounts/exception/ResourceNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section2/accounts/target/classes/com/eazybytes/accounts/mapper/AccountsMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section2/accounts/target/classes/com/eazybytes/accounts/mapper/CustomerMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section2/accounts/target/classes/com/eazybytes/accounts/repository/AccountsRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section2/accounts/target/classes/com/eazybytes/accounts/repository/CustomerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section2/accounts/target/classes/com/eazybytes/accounts/services/IAccountsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section2/accounts/target/classes/com/eazybytes/accounts/services/impl/AccountsServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section2/accounts/target/classes/schema.sql" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,23 +44,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2l29OvGCrdLDAb0ERMEVGd12TBp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
